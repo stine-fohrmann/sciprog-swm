@@ -1,2 +1,1 @@
-# sciprog-swm
-Shallow Water Model
+# Shallow Water Model
